@@ -1,0 +1,119 @@
+* {
+    margin: 0;
+    font-family: Helvetica, sans-serif;
+}
+
+
+header {
+    height: 280px;
+    background: url('/img/background2.jpeg') no-repeat;
+    background-size: 100%;
+}
+
+.container {
+    position: relative;
+}
+
+div.card {
+    background: linear-gradient(to right, #483D8B, #6959CD, #836FFF) ;
+    height: 350px;
+    width: 85%;
+    margin: auto;
+    position: relative;
+    bottom: 110px;
+    color: white;
+    text-shadow: black 2px 1px 5px;
+    border-radius: 10px;
+    overflow: hidden;
+}
+
+div.card h1 {
+    font-family: Helvetica, sans-serif;
+    
+}
+
+div.card h2 {
+    font-family: Helvetica, sans-serif;
+    
+}
+
+
+img#photoPerfil {
+    height: 350px;
+    width: 300px;
+    float: right;
+    border-bottom-left-radius: 50%;
+}
+
+
+
+.container-info {
+    float: left;
+    padding: 40px;
+}
+
+.infos {
+    margin-left: -10px;
+    margin-top: 10px ;
+}
+
+.infos #person {
+    list-style-image: url('/img/icon_person.svg');
+    
+}
+
+.infos #email {
+    list-style-image: url('/img/icon_email.svg');
+}
+
+.infos #phone {
+    list-style-image: url('/img/icon_phone.svg');
+}
+
+.infos #location {
+    list-style-image: url('/img/icon_location.svg');
+}
+
+
+.container-links {
+    margin-top: 20px;
+    padding-left: 0px;    
+}
+
+.container-links li {
+    display: inline;
+    margin-right: 20px;
+}
+
+.logo {
+    width: 40px;
+}
+
+/* logoGmail ajustar ao dar F5(icone Gigante)*/
+.logoGmail {
+    width: 45px;
+}
+
+
+
+div.stacks {
+    background-color: #483D8B;
+    height: 200px;
+    width: 85%;
+    margin: auto;
+    color: white;
+    text-shadow: black 2px 1px 5px;
+    background: linear-gradient(to right, #483D8B, #6959CD, #836FFF);
+    border-radius: 10px;
+    position: relative;
+    bottom: 60px;
+}
+
+
+div.stacks h3 {
+    text-align: center;
+    padding: 20px;
+} 
+
+
+
