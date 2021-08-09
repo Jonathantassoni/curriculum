@@ -142,10 +142,27 @@ div.stacks h3 {
     text-align: center;
 } 
 
-div.stacks img {
-    width: 100px;
-    float: left;
+div.box-stacks {
+    margin-top: 30px;
+    text-align: center;
 }
+
+div.text-img {
+    position: absolute;
+    margin-top: -30px;
+}
+
+div.box-img {
+    display: inline-block;
+}
+
+div.stacks img {
+    width: 90px;
+    float: left;
+    
+}
+
+
 
 
 
