@@ -4,6 +4,7 @@
 }
 
 
+
 header {
     height: 280px;
     background: url('/img/background2.jpeg') no-repeat;
@@ -96,7 +97,7 @@ img#photoPerfil {
 
 
 
-div.stacks {
+div.description {
     background-color: #483D8B;
     height: 200px;
     width: 85%;
@@ -107,13 +108,65 @@ div.stacks {
     border-radius: 10px;
     position: relative;
     bottom: 60px;
+    box-sizing: border-box;
+    padding: 25px 40px;
 }
 
 
+div.description h3 {
+    text-align: center;
+    margin-bottom: 20px;
+} 
+
+div.description p {
+    margin-top: 15px;
+    text-align: justify ;
+}
+
+div.stacks {
+    background-color: #483D8B;
+    height: 210px;
+    width: 85%;
+    margin: auto;
+    color: white;
+    text-shadow: black 2px 1px 5px;
+    background: linear-gradient(to right, #483D8B, #6959CD, #836FFF);
+    border-radius: 10px;
+    position: relative;
+    bottom: 10px;
+    box-sizing: border-box;
+    padding: 25px 40px;
+    margin-bottom: 20px;
+    
+}
+
 div.stacks h3 {
     text-align: center;
-    padding: 20px;
+    margin-bottom: 20px;
 } 
+
+div.box-stacks {
+    text-align: center;
+}
+
+
+div.box-img {
+    display: inline-block;
+    margin-right: 10px;
+    margin-left: 10px;
+}
+
+figcaption {
+    margin-bottom: 10px;
+}
+
+div.stacks img {
+    width: 90px;
+    float: left;
+    
+}
+
+
 
 
 
