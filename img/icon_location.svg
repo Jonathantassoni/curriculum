@@ -1,1 +1,11 @@
-<svg xmlns="http://www.w3.org/2000/svg" height="24px" viewBox="0 0 24 24" width="24px" fill="#FFFFFF"><path d="M0 0h24v24H0V0z" fill="none"/><path d="M12 2C8.13 2 5 5.13 5 9c0 5.25 7 13 7 13s7-7.75 7-13c0-3.87-3.13-7-7-7zM7 9c0-2.76 2.24-5 5-5s5 2.24 5 5c0 2.88-2.88 7.19-5 9.88C9.92 16.21 7 11.85 7 9z"/><circle cx="12" cy="9" r="2.5"/></svg>
+<svg width="13.999999999999998" height="20" xmlns="http://www.w3.org/2000/svg" fill="#FFFFFF">
+
+ <g>
+  <title>Layer 1</title>
+  <g id="svg_6">
+   <path stroke="null" id="svg_1" fill="none" d="m-5,-2l24,0l0,24l-24,0l0,-24z"/>
+   <path stroke="null" id="svg_2" d="m7,0c-3.87,0 -7,3.13 -7,7c0,5.25 7,13 7,13s7,-7.75 7,-13c0,-3.87 -3.13,-7 -7,-7zm-5,7c0,-2.76 2.24,-5 5,-5s5,2.24 5,5c0,2.88 -2.88,7.19 -5,9.88c-2.08,-2.67 -5,-7.03 -5,-9.88z"/>
+   <circle stroke="null" id="svg_3" r="2.5" cy="7" cx="7"/>
+  </g>
+ </g>
+</svg>

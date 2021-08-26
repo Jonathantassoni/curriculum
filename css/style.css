@@ -55,7 +55,12 @@ img#photoPerfil {
 
 .infos {
     margin-left: -10px;
-    margin-top: 10px ;
+    margin-top: 10px;
+}
+
+.infos li {
+    
+    padding: 5px;
 }
 
 .infos #person {

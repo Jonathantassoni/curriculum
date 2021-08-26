@@ -1,1 +1,15 @@
-<svg xmlns="http://www.w3.org/2000/svg" height="24px" viewBox="0 0 24 24" width="24px" fill="#FFFFFF"><path d="M0 0h24v24H0V0z" fill="none"/><path d="M12 5.9c1.16 0 2.1.94 2.1 2.1s-.94 2.1-2.1 2.1S9.9 9.16 9.9 8s.94-2.1 2.1-2.1m0 9c2.97 0 6.1 1.46 6.1 2.1v1.1H5.9V17c0-.64 3.13-2.1 6.1-2.1M12 4C9.79 4 8 5.79 8 8s1.79 4 4 4 4-1.79 4-4-1.79-4-4-4zm0 9c-2.67 0-8 1.34-8 4v3h16v-3c0-2.66-5.33-4-8-4z"/></svg>
+<svg width="16" height="16" xmlns="http://www.w3.org/2000/svg" fill="#FFFFFF">
+ <g>
+  <title>Layer 1</title>
+  <rect stroke="null" opacity="NaN" x="526" y="226" width="0" height="0" id="svg_3"/>
+  <rect stroke="null" opacity="NaN" x="737" y="329" width="0" height="0" id="svg_4"/>
+  <rect stroke="null" opacity="NaN" x="837" y="261" width="0" height="0" id="svg_5"/>
+  <rect stroke="null" opacity="NaN" x="480" y="213" width="0" height="0" id="svg_6"/>
+  <rect stroke="null" opacity="NaN" x="536" y="187" width="0" height="0" id="svg_7"/>
+  <g stroke="null" id="svg_8">
+   <path stroke="null" d="m-4.43497,-4.09524l24.72068,0l0,24.19048l-24.72068,0l0,-24.19048z" fill="none" id="svg_1"/>
+   <path stroke="null" d="m8.21282,1.99524c1.16705,0 2.11276,0.94 2.11276,2.1s-0.94571,2.1 -2.11276,2.1s-2.11276,-0.94 -2.11276,-2.1s0.94571,-2.1 2.11276,-2.1m0,9c2.98804,0 6.13705,1.46 6.13705,2.1l0,1.1l-12.27411,0l0,-1.1c0,-0.64 3.14901,-2.1 6.13705,-2.1m0,-10.9c-2.22342,0 -4.0243,1.79 -4.0243,4s1.80087,4 4.0243,4s4.0243,-1.79 4.0243,-4s-1.80087,-4 -4.0243,-4zm0,9c-2.68622,0 -8.04859,1.34 -8.04859,4l0,3l16.09719,0l0,-3c0,-2.66 -5.36238,-4 -8.04859,-4z" id="svg_2"/>
+  </g>
+ </g>
+
+</svg>
