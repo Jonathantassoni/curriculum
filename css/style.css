@@ -7,7 +7,7 @@
 
 header {
     height: 280px;
-    background-image: url('../img/background2.jpeg');
+    background-image: url(../img/background2.jpeg);
     background-size: 100%;
 }
 
