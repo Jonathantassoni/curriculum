@@ -7,7 +7,7 @@
 
 header {
     height: 280px;
-    background-image: url('/img/background2.jpeg');
+    background-image: url('../img/background2.jpeg');
     background-size: 100%;
 }
 
@@ -65,20 +65,20 @@ img#photoPerfil {
 }
 
 .infos #person {
-    list-style-image: url('/img/icon_person.svg');
+    list-style-image: url('../img/icon_person.svg');
     
 }
 
 .infos #email {
-    list-style-image: url('/img/icon_email.svg');
+    list-style-image: url('../img/icon_email.svg');
 }
 
 .infos #phone {
-    list-style-image: url('/img/icon_phone.svg');
+    list-style-image: url('../img/icon_phone.svg');
 }
 
 .infos #location {
-    list-style-image: url('/img/icon_location.svg');
+    list-style-image: url('../img/icon_location.svg');
 }
 
 
